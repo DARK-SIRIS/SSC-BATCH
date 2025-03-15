@@ -29,7 +29,7 @@
         .ALIF {
             width: 100px;
             height: 100px;
-            background: url('https://i.ibb.co.com/ds5wb7mJ/IMG-20241204-WA0003-1.jpg') no-repeat center center;
+            background: url('https://i.ibb.co/Z1mt1HTF/ALIF-2-0.jpg') no-repeat center center;
             background-size: cover;
             border-radius: 50%;
             margin: 0 auto;
@@ -38,7 +38,7 @@
         .IMRAN {
             width: 100px;
             height: 100px;
-            background: url('https://i.ibb.co.com/kgYYWmrd/IMG-20241204-WA0028-1.jpg') no-repeat center center;
+            background: url('https://i.ibb.co/svGVL9BS/IMRAN.jpg') no-repeat center center;
             background-size: cover;
             border-radius: 50%;
             margin: 0 auto;
@@ -143,3 +143,12 @@
             margin: 0 auto;
             border: 3px solid #00ffcc;
         }  
+        .FARDIN {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/9krSsDcF/FARDIN.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }          
