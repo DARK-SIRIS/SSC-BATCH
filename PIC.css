@@ -29,7 +29,7 @@
         .ALIF {
             width: 100px;
             height: 100px;
-            background: url('https://i.ibb.co/Z1mt1HTF/ALIF-2-0.jpg') no-repeat center center;
+            background: url('https://i.ibb.co/3mfkf0RH/486419452-1311145016850386-7856723653197673564-n.jpg') no-repeat center center;
             background-size: cover;
             border-radius: 50%;
             margin: 0 auto;
@@ -38,7 +38,7 @@
         .IMRAN {
             width: 100px;
             height: 100px;
-            background: url('https://i.ibb.co/svGVL9BS/IMRAN.jpg') no-repeat center center;
+            background: url('https://i.ibb.co/yBbxVHqq/487487360-632736306337556-1595744709192515441-n.jpg') no-repeat center center;
             background-size: cover;
             border-radius: 50%;
             margin: 0 auto;
@@ -110,7 +110,7 @@
         .EASIN {
             width: 100px;
             height: 100px;
-            background: url('XYLON/iasin.jpg') no-repeat center center;
+            background: url('https://i.ibb.co/bg8PKyRf/487032687-1166437964959399-3611589930931069578-n.jpg') no-repeat center center;
             background-size: cover;
             border-radius: 50%;
             margin: 0 auto;
@@ -146,9 +146,27 @@
         .FARDIN {
             width: 100px;
             height: 100px;
-            background: url('https://i.ibb.co/9krSsDcF/FARDIN.jpg') no-repeat center center;
+            background: url('https://i.ibb.co/s9yc78yt/487958128-940398567985469-7082127508360508648-n-cropped.jpg') no-repeat center center;
             background-size: cover;
             border-radius: 50%;
             margin: 0 auto;
             border: 3px solid #00ffcc;
         }          
+        .NILOY {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/VYTmB9Yc/486571578-1007619217999487-8924106484118574191-n-1-cropped.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }      
+        .ARAFAT {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/XfjC7Q7K/487823717-1008402397374607-8505013739500313439-n.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }              
