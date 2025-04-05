@@ -1,154 +1,181 @@
+
+        .profile-pic {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/sdbD4vhq/Islamic-Tawhid.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .RUPITA {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co.com/tM3nG98/IMG-20250107-133639-412.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
         .ABDULLHA {
-             width: 100px;
-             height: 100px;
-             background: url('XYLON/https://i.ibb.co/sdbD4vhq/Islamic-Tawhid.jpg') no-repeat center center;
-             background: url('https://i.ibb.co/sdbD4vhq/Islamic-Tawhid.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .ALIF {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/3mfkf0RH/486419452-1311145016850386-7856723653197673564-n.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .IMRAN {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/yBbxVHqq/487487360-632736306337556-1595744709192515441-n.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .SIAM {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co.com/gbVt3WWk/1738216615561-1.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .PRITOM {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co.com/1z3sVWm/1733242446460.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .HRIDOY {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co.com/QMfBPCw/1733241978174.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .RUDRO {
-             width: 100px;
-             height: 100px;
-             background: url('XYLON/RUDRO.png') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .MIZAN {
-             width: 100px;
-             height: 100px;
-             background: url('XYLON/mizan.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .JIHAT {
-             width: 100px;
-             height: 100px;
-             background: url('XYLON/jihat.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .SHAON {
-             width: 100px;
-             height: 100px;
-             background: url('XYLON/shaon.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .EASIN {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/bg8PKyRf/487032687-1166437964959399-3611589930931069578-n.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .SHEIKH {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/MDmn7jCL/SHEIKH.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .LIMON {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/p6tCkWZM/LIMON.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }
-         .TANVIR {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/tpfgFBQm/TANVIR.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }  
-         .FARDIN {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/s9yc78yt/487958128-940398567985469-7082127508360508648-n-cropped.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }          
-         .NILOY {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/VYTmB9Yc/486571578-1007619217999487-8924106484118574191-n-1-cropped.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }      
-         .ARAFAT {
-             width: 100px;
-             height: 100px;
-             background: url('https://i.ibb.co/XfjC7Q7K/487823717-1008402397374607-8505013739500313439-n.jpg') no-repeat center center;
-             background-size: cover;
-             border-radius: 50%;
-             margin: 0 auto;
-             border: 3px solid #00ffcc;
-         }     
+            width: 100px;
+            height: 100px;
+            background: url('XYLON/ff.mp4') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .ALIF {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/3mfkf0RH/486419452-1311145016850386-7856723653197673564-n.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .IMRAN {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/yBbxVHqq/487487360-632736306337556-1595744709192515441-n.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .SIAM {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co.com/gbVt3WWk/1738216615561-1.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .PRITOM {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co.com/1z3sVWm/1733242446460.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .HRIDOY {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co.com/QMfBPCw/1733241978174.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .RUDRO {
+            width: 100px;
+            height: 100px;
+            background: url('XYLON/RUDRO.png') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .MIZAN {
+            width: 100px;
+            height: 100px;
+            background: url('XYLON/mizan.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .JIHAT {
+            width: 100px;
+            height: 100px;
+            background: url('XYLON/jihat.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .SHAON {
+            width: 100px;
+            height: 100px;
+            background: url('XYLON/shaon.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .EASIN {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/bg8PKyRf/487032687-1166437964959399-3611589930931069578-n.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .SHEIKH {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/MDmn7jCL/SHEIKH.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .LIMON {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/p6tCkWZM/LIMON.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }
+        .TANVIR {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/tpfgFBQm/TANVIR.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }  
+        .FARDIN {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/s9yc78yt/487958128-940398567985469-7082127508360508648-n-cropped.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }          
+        .NILOY {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/VYTmB9Yc/486571578-1007619217999487-8924106484118574191-n-1-cropped.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }      
+        .ARAFAT {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/XfjC7Q7K/487823717-1008402397374607-8505013739500313439-n.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        }              
+        .JUNED {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/vv3P0vxc/file.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        } 
