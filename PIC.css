@@ -2,7 +2,7 @@
         .profile-pic {
             width: 100px;
             height: 100px;
-            background: url('XYLON/logo.png') no-repeat center center;
+            background: url('https://i.ibb.co/sdbD4vhq/Islamic-Tawhid.jpg') no-repeat center center;
             background-size: cover;
             border-radius: 50%;
             margin: 0 auto;
@@ -20,7 +20,7 @@
         .ABDULLHA {
             width: 100px;
             height: 100px;
-            background: url('https://i.ibb.co/sdbD4vhq/Islamic-Tawhid.jpg') no-repeat center center;
+            background: url('XYLON/ff.mp4') no-repeat center center;
             background-size: cover;
             border-radius: 50%;
             margin: 0 auto;
@@ -170,3 +170,12 @@
             margin: 0 auto;
             border: 3px solid #00ffcc;
         }              
+        .JUNED {
+            width: 100px;
+            height: 100px;
+            background: url('https://i.ibb.co/vv3P0vxc/file.jpg') no-repeat center center;
+            background-size: cover;
+            border-radius: 50%;
+            margin: 0 auto;
+            border: 3px solid #00ffcc;
+        } 
