@@ -27,7 +27,7 @@ canvas {
 }
 
 .container {
-    width: 80%;
+    width: 85%;
     max-width: 400px;
     background: linear-gradient(145deg, #000, #003366);
     border-radius: 15px;
@@ -87,16 +87,6 @@ ul li {
     position: relative;
     padding-left: 20px;
 }
-
-ul li::before {
-    content: '>';
-    color: #00ffcc;
-    position: absolute;
-    left: 0;
-    top: 0;
-    font-size: 18px;
-}
-
 .buttons {
     margin: 20px 0;
     display: flex;
@@ -123,7 +113,7 @@ ul li::before {
     margin-top: 60px;
 }
 .btn-custom {
-    background-color: #00ffcc;
+    background-color: #26b1a5;
     color: (145deg, #000, #003366);
     padding: 10px 20px;
     border-radius: 25px;
@@ -138,8 +128,8 @@ ul li::before {
 }
 
 .btn-custom:hover {
-    background-color: #ff79a8;
-    box-shadow: 0 0 25px #ff79a8;
+    background-color: #ff0059;
+    box-shadow: 0 0 25px #00d9ff;
     text-decoration: none;
 }
 #particles-js {
