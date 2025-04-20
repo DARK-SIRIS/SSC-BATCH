@@ -28,7 +28,7 @@ canvas {
 
 .container {
     width: 85%;
-    max-width: 400px;
+    max-width: 295px;
     background: linear-gradient(145deg, #000, #003366);
     border-radius: 15px;
     box-shadow: 0 0 20px #00ffcc, 0 0 30px #003366;
@@ -124,6 +124,7 @@ ul li {
     box-shadow: 0 0 15px #ff004c;
     transition: all 0.3s ease-in-out;
     display: inline-block;
+    font-family: 'VT323', monospace;
     font-size: 1.2em;
 }
 
@@ -139,3 +140,7 @@ ul li {
     top: 10;
     left: 0;
 }
+.hide-sensitive {
+    filter: blur(10px);
+  }
+  
