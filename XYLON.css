@@ -1,5 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@font-face {
+    font-family: 'EngFont';
+    src: url('FUCK.otf') format('truetype');
+}
 body {
     margin: 0;
     font-family: 'VT323', monospace;
@@ -29,6 +33,7 @@ canvas {
 .container {
     width: 85%;
     max-width: 295px;
+    font-family: 'Abdullha';
     background: linear-gradient(145deg, #000, #003366);
     border-radius: 15px;
     box-shadow: 0 0 20px #00ffcc, 0 0 30px #003366;
@@ -49,7 +54,7 @@ canvas {
 }
 
 h1 {
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'PostBN';
     font-size: 24px;
     margin: 10px 0;
     background: linear-gradient(90deg, #00ffcc, #003366, #00ffcc);
@@ -65,7 +70,8 @@ h1 {
 }
 
 p {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'EngFont';
+    text-shadow: 3px 3px 3px #ababab;
     font-size: 12px;
     margin: 10px 0;
 }
