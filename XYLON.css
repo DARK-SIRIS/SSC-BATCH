@@ -10,7 +10,7 @@ body {
     background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
     overflow: auto;
     color: #00ffcc;
-    cursor: none;
+    cursor: url('https://cur.cursors-4u.net/cursors/images1/cur1.gif'), auto;
 }
 
 canvas {
