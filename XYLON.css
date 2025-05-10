@@ -149,4 +149,14 @@ ul li {
 .hide-sensitive {
     filter: blur(10px);
   }
-  
+    .styled-swal-popup {
+    border-radius: 16px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    padding: 1.5rem;
+  }
+
+  .styled-swal-progress {
+    background: linear-gradient(to right, #50E3C2, #4A90E2);
+    height: 6px !important;
+  }
+
