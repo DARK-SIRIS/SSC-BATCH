@@ -146,17 +146,64 @@ ul li {
     top: 10;
     left: 0;
 }
-.hide-sensitive {
-    filter: blur(10px);
-  }
-    .styled-swal-popup {
-    border-radius: 16px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-    padding: 1.5rem;
-  }
-
-  .styled-swal-progress {
-    background: linear-gradient(to right, #50E3C2, #4A90E2);
-    height: 6px !important;
+  /* SweetAlert2 Popup Custom Styling */
+  .swal2-popup {
+    width: 350px !important; /* default width */
+    padding: 20px !important; /* default padding */
+    background: #f0f8ff !important; /* light blue background for the popup */
+    border-radius: 12px !important;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    font-family: 'Courier New', Courier, monospace !important; /* Code-style font */
+    color: #333;
   }
 
+  .swal2-title {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #3b3b3b;
+    margin-bottom: 15px;
+  }
+
+  .swal2-html-container {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+
+  /* Emoji added to the title */
+  .swal2-title::after {
+    content: " 💻🌐";
+    font-size: 24px;
+    margin-left: 10px;
+  }
+
+  /* Custom OK button with purple gradient */
+  .swal2-confirm.my-ok-button {
+    background: linear-gradient(145deg, #7A5CF5, #6A3F9C) !important;
+    color: white !important;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 10px 25px;
+    font-family: 'Courier New', Courier, monospace !important; /* Code-style font */
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+
+  .swal2-confirm.my-ok-button:hover {
+    background: linear-gradient(145deg, #6A3F9C, #7A5CF5) !important;
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 600px) {
+    .swal2-popup {
+      width: 90% !important;
+      padding: 15px !important;
+    }
+
+    .swal2-confirm.my-ok-button {
+      padding: 8px 16px;
+    }
+  }
